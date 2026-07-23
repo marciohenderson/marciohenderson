@@ -1,4 +1,4 @@
-👨‍💻 Márcio Alves - front-end developer
+👨‍💻 Márcio Alves - future front-end developer
 - 📚 I'm studying computer science at IFPI - Campus Pedro II.
 - **`Trying to be a front-end developer`**
 - At a every day learning more and more
